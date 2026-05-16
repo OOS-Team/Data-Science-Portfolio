@@ -1,5 +1,18 @@
 # Auflistung von ausgewählten Data Science Projekten 
 
+## 🚀 Neues Highlight: End-to-End Web-App
+
+### 🫁 Lung Cancer Detection Web App
+**Interaktive Streamlit-Web-App** zur Lungenkrebs-Erkennung mit Deep Learning (Transfer Learning).
+
+- **Repo**: [github.com/OOS-Team/lung-cancer-detection-app](https://github.com/OOS-Team/lung-cancer-detection-app)
+- **Live Demo**: Bald verfügbar auf Streamlit Cloud (nach Deployment)
+- **Technologien**: Streamlit, TensorFlow/Keras, PIL, NumPy
+- Zeigt: Vom trainierten Modell bis zur produktiven Web-App – voll deploybar!
+
+*Kopiere einfach dein `model.h5` aus dem `lung-cancer-detection`-Repo in das App-Repo und deploye es kostenlos auf [share.streamlit.io](https://share.streamlit.io).*
+
+---
 
 ## Python
 
